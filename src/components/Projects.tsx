@@ -18,7 +18,7 @@ const Projects = () => {
       image: 'https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=600&h=400&fit=crop',
       technologies: ['React', 'TypeScript', 'Firebase', 'Tailwind'],
       liveUrl: '#',
-      githubUrl: '#'
+      githubUrl: 'https://github.com/'
     },
     {
       title: 'Weather Dashboard',
@@ -26,7 +26,7 @@ const Projects = () => {
       image: 'https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=600&h=400&fit=crop',
       technologies: ['Vue.js', 'D3.js', 'API Integration', 'CSS3'],
       liveUrl: '#',
-      githubUrl: '#'
+      githubUrl: 'https://github.com/'
     },
     {
       title: 'Social Media App',

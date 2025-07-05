@@ -8,7 +8,7 @@ const About = () => {
     { name: 'JavaScript', level: 95 },
     { name: 'TypeScript', level: 85 },
     { name: 'Node.js', level: 80 },
-    { name: 'Python', level: 75 },
+    { name: 'Laravel', level: 75 },
     { name: 'UI/UX Design', level: 70 }
   ];
 
@@ -52,7 +52,7 @@ const About = () => {
         <div className="grid md:grid-cols-2 gap-12 items-center mb-16">
           <div>
             <img 
-              src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face"
+              src="/byVR.jpeg" 
               alt="Profile"
               className="rounded-2xl shadow-2xl w-full max-w-md mx-auto hover:transform hover:scale-105 transition-transform duration-300"
             />
@@ -60,8 +60,8 @@ const About = () => {
           <div>
             <h3 className="text-2xl font-bold mb-4 text-gray-800">Desenvolvedor Full Stack</h3>
             <p className="text-gray-600 mb-6 leading-relaxed">
-              Com mais de 5 anos de experiência, transformo ideias em realidade digital. 
-              Especializado em React, Node.js e tecnologias modernas, sempre buscando 
+              Com pelo menos 2 anos de experiência, transformo ideias em realidade digital. 
+              Especializado em React, Vue.js, Laravel e tecnologias modernas, sempre buscando 
               as melhores práticas e soluções inovadoras.
             </p>
             <p className="text-gray-600 mb-8 leading-relaxed">

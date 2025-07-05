@@ -58,7 +58,7 @@ const Footer = () => {
             <Heart className="text-red-500" size={16} />
             <span>por Desenvolvedor Full Stack</span>
           </p>
-          <p className="text-gray-500 mt-2">© 2024 Portfolio. Todos os direitos reservados.</p>
+          <p className="text-gray-500 mt-2">© 2024 Valgy Rodrigues. Todos os direitos reservados.</p>
         </div>
       </div>
     </footer>

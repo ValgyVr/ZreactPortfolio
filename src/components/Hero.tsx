@@ -23,7 +23,7 @@ const Hero = () => {
         <div className="animate-fade-in">
           <h1 className="text-5xl md:text-7xl font-bold mb-6">
             <span className="bg-gradient-to-r from-blue-600 via-purple-600 to-blue-800 bg-clip-text text-transparent">
-              Olá, eu sou
+              Olá, eu sou Valgy Rodrigues
             </span>
           </h1>
           <h2 className="text-4xl md:text-6xl font-bold mb-6 text-gray-800">
